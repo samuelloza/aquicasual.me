@@ -2,7 +2,7 @@
 title: 3. Primer Contenedor
 description: 
 published: true
-date: 2020-05-23T15:49:12.397Z
+date: 2020-05-23T15:52:27.914Z
 tags: docker
 ---
 
@@ -102,8 +102,16 @@ Con esto concluye nuestro tour del comando `docker run` que sera el comando que 
 ### 1.2 Terminología
 En esta sección viste muchos comandos de Docker que podría ser confuso para algunos. Así que antes de ir mas lejos, Aclaramos algunos términos que son usados frecuentemente en el ecosistema de Docker.
 
-- **Images** - El sistema de archivos y las configuraciones de archivos que se usan para crear contenedores. Para saber mas sobre **Docker image**, prueba este comando `docker inspect alpine`. En la demostración anterior usaste el comando `docker pull` para descargar la imagen de **alpine**. Cuando ejecutas el comando `docker run hello-world`, también se hizo un `docker pull` por detras para descargar la imagen **hello-world** .
-- **Containers** - Corriendo una instancia de Docker images &mdash; los contenedores que ejecutan la aplicacion. Un contenedor incluye una aplicación y todas sus dependencias. Se comparte el kernel con otros contenedores y corre como un proceso aislado. Creaste un contenedor usando el comando `docker run` lo cual hiciste usando la imagen de alpine que descargaste. Se puede ver una lista de contenedores corriendo usando el comando `docker ps`.
-- **Docker daemon** - El servicio corriendo por detrás en la maquina en el host que gestiona la construccion, el funcionamiento de los contenedores Docker.
-- **Docker client** - La herramienta de linea de comandos que permite interactuar al usuario por la linea de comandos con **Docker daemon**.
-- **Docker Store** - Un [registry](https://hub.docker.com/) de imagenes Docker donde puedes buscar imágenes de todos los sabores.
+>  **Images** - El sistema de archivos y las configuraciones de archivos que se usan para crear contenedores. Para saber mas sobre **Docker image**, prueba este comando `docker inspect alpine`. En la demostración anterior usaste el comando `docker pull` para descargar la imagen de **alpine**. Cuando ejecutas el comando `docker run hello-world`, también se hizo un `docker pull` por detras para descargar la imagen **hello-world** .
+
+
+
+> **Containers** - Corriendo una instancia de Docker images &mdash; los contenedores que ejecutan la aplicacion. Un contenedor incluye una aplicación y todas sus dependencias. Se comparte el kernel con otros contenedores y corre como un proceso aislado. Creaste un contenedor usando el comando `docker run` lo cual hiciste usando la imagen de alpine que descargaste. Se puede ver una lista de contenedores corriendo usando el comando `docker ps`.
+
+
+> **Docker daemon** - El servicio corriendo por detrás en la maquina en el host que gestiona la construccion, el funcionamiento de los contenedores Docker.
+
+> **Docker client** - La herramienta de linea de comandos que permite interactuar al usuario por la linea de comandos con **Docker daemon**.
+
+> **Docker Store** - Un [registry](https://hub.docker.com/) de imagenes Docker donde puedes buscar imágenes de todos los sabores.
+
