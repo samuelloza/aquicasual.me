@@ -2,15 +2,15 @@
 title: 2. Instalacion
 description: Instalacion
 published: true
-date: 2020-05-23T02:35:59.825Z
+date: 2020-05-23T15:42:28.856Z
 tags: docker
 ---
 
-# 2. Instalacion
+# 2. Instalación
 
-
-### Prerequisitos
-No se necestan habilidades especificas para este tutorial, un basico conocimiento sobre la terminal y usar un editor de texto. Previa experiencia en desarrollo web sera util, pero no es un requisito. A medida que avancemos en este tutorial, utilizaremos [Docker Hub](https://hub.docker.com/).
+	
+### Pre requisitos
+No se necesitan habilidades especificas para este tutorial, un básico conocimiento sobre la terminal y usar un editor de texto. Previa experiencia en desarrollo web sera útil, pero no es un requisito. A medida que avancemos en este tutorial, utilizaremos [Docker Hub](https://hub.docker.com/).
 
 ### Configuraciones del Equipo
 
@@ -21,13 +21,13 @@ La *guia de inicio* de Docker tiene detalladas instrucciones para instalar Docke
 - [Linux](https://docs.docker.com/engine/installation/linux/) 
 - [Windows](https://docs.docker.com/docker-for-windows/).
 
-*Si usas Docker para Windows* asegurate de tener [shared your drive](https://docs.docker.com/docker-for-windows/#shared-drives).
+*Si usas Docker para Windows* asegúrate de tener [shared your drive](https://docs.docker.com/docker-for-windows/#shared-drives).
 
-*Nota Importante* Si estas usando una version antigua de Windows o MacOS es posible que necesites usar [Docker Machine](https://docs.docker.com/machine/overview/).
+*Nota Importante* Si estas usando una versión antigua de Windows o MacOS es posible que necesites usar [Docker Machine](https://docs.docker.com/machine/overview/).
 
 *Los comandos funcionan en  bash o Powershell en Windows*
 
-Una vez instalado Docker, prueba la instalacion ejecutando la siguiente linea:
+Una vez instalado Docker, prueba la instalación ejecutando la siguiente linea:
 ```bash
 $ docker run hello-world
 Unable to find image 'hello-world:latest' locally
