@@ -2,7 +2,7 @@
 title: 2. Instalacion
 description: Instalacion
 published: true
-date: 2020-05-23T15:42:28.856Z
+date: 2020-05-23T16:04:55.132Z
 tags: docker
 ---
 
@@ -16,10 +16,11 @@ No se necesitan habilidades especificas para este tutorial, un básico conocimie
 
 Instalar todas las herramientas en tu computadora puede ser una tarea desalentadora, pero instalar Docker en tu sistema operativo es una tarea muy facil.
 
-La *guia de inicio* de Docker tiene detalladas instrucciones para instalar Docker en:
-- [Mac](https://docs.docker.com/docker-for-mac/), 
-- [Linux](https://docs.docker.com/engine/installation/linux/) 
-- [Windows](https://docs.docker.com/docker-for-windows/).
+La *guia de inicio* de Docker tiene detalladas instrucciones para instalar Docker en: 
+
+[Mac](https://docs.docker.com/docker-for-mac/), 
+[Linux](https://docs.docker.com/engine/installation/linux/) 
+[Windows](https://docs.docker.com/docker-for-windows/).
 
 *Si usas Docker para Windows* asegúrate de tener [shared your drive](https://docs.docker.com/docker-for-windows/#shared-drives).
 
