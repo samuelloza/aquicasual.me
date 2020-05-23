@@ -2,7 +2,7 @@
 title: 3. Primer Contenedor
 description: 
 published: true
-date: 2020-05-23T15:52:27.914Z
+date: 2020-05-23T15:53:42.126Z
 tags: docker
 ---
 
