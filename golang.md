@@ -2,7 +2,7 @@
 title: Empaquetando archivos estaticos
 description: Empaquetando archivos html y js dentro deun binario de Go
 published: true
-date: 2020-07-01T18:08:53.797Z
+date: 2020-07-01T18:09:22.515Z
 tags: golang
 editor: markdown
 ---
@@ -94,6 +94,7 @@ En otra terminal ejecutamos el binario construido
 
 ```bash
 ./salida
+```
 ![packr2.png](/golang-empaquetado/packr2.png)
 
 y listo ya tenemos el binario y el html empaquetado
