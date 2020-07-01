@@ -2,7 +2,7 @@
 title: Empaquetando archivos estaticos
 description: Empaquetando archivos html y js dentro deun binario de Go
 published: true
-date: 2020-07-01T18:09:22.515Z
+date: 2020-07-01T20:06:06.602Z
 tags: golang
 editor: markdown
 ---
@@ -13,6 +13,7 @@ Hola, en esta entrada veremos como empaquetar archivos estaticos,
 para el ejemplo usare un simple html.
 
 La idea es empaquetar el archivo html dentro un binario de Go.
+
 ## Pasos
 
 1. Crear el contenido de la pagina web
@@ -68,6 +69,14 @@ y el archivo go.mod
 ```go
 go init demo
 ```
+La estructura del proyecto quedara como:
+```
+.
+├── go.sum
+├── main.go
+└── public
+    └── index.html
+```
 3. Probar que todo este en orden
 
 ```go
@@ -84,7 +93,6 @@ y abra el navegador localhost:8082
 ehh, hasta el momento esta funcionando
 
 4. Construyendo el empaquetado
-
 
 ```bash
 packr2 build -o salida main.go
