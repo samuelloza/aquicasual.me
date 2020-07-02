@@ -2,7 +2,7 @@
 title: Jugando con Keycloack
 description: Recientemente conoci a Keycloack es un gestor de usuarios por asi llamarlo
 published: true
-date: 2020-07-02T00:39:05.047Z
+date: 2020-07-02T00:39:39.765Z
 tags: keycloack
 editor: markdown
 ---
@@ -28,8 +28,8 @@ server {
 	server_name auth.misito.com;
 
 	# SSL
-	ssl_certificate /etc/letsencrypt/live/auth.misito.com/fullchain.pem;
-	ssl_certificate_key /etc/letsencrypt/live/auth.misito.com/privkey.pem;
+  ssl_certificate /etc/letsencrypt/live/auth.misito.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/auth.misito.com/privkey.pem;
   error_log  /var/log/nginx/auth.misito.com.log error;
  
  location ~ /(.*) {
