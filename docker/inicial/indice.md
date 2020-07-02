@@ -1,8 +1,8 @@
 ---
-title: 1. Indice
+title: 1. Index
 description: 
 published: true
-date: 2020-07-02T00:18:14.302Z
+date: 2020-07-02T00:18:53.408Z
 tags: 
 editor: markdown
 ---
