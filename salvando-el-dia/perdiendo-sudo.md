@@ -2,14 +2,13 @@
 title: perdiendo el sudo
 description: 
 published: true
-date: 2020-07-02T00:13:17.252Z
+date: 2020-07-02T00:14:07.150Z
 tags: 
 editor: markdown
 ---
 
-# /usr/bin/sudo must be owned by uid 0 and have the setuid bit set
+# Perdiendo acceso a sudo
 
-`/usr/bin/sudo must be owned by uid 0 and have the setuid bit set`
 
 Por un error fatal cambie el usuario del binario sudo, si lo se que verguenza!!! 😭😭😭😭😭
 
