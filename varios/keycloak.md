@@ -2,7 +2,7 @@
 title: Jugando con Keycloack
 description: Recientemente conoci a Keycloack es un gestor de usuarios por asi llamarlo
 published: true
-date: 2020-07-02T00:39:39.765Z
+date: 2020-07-02T00:39:54.927Z
 tags: keycloack
 editor: markdown
 ---
@@ -12,6 +12,7 @@ editor: markdown
 
 
 
+# Instalacion dev
 
 1. Levantando Keycloack en Docker 
 
