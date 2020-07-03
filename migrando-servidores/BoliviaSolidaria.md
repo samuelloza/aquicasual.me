@@ -2,12 +2,12 @@
 title: Migrando el server
 description: 
 published: true
-date: 2020-07-03T23:37:38.562Z
+date: 2020-07-03T23:39:43.337Z
 tags: servers
 editor: markdown
 ---
 
-# Migracion de contenedores
+# Migrando contenedores
 
 
 Les comparto esta vitacora que me hice para migrar los contenedores de un ser servidor (Gcloud) a otro.
