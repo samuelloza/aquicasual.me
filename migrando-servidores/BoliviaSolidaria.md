@@ -2,7 +2,7 @@
 title: Migrando contenedores
 description: 
 published: true
-date: 2020-07-03T23:41:34.471Z
+date: 2020-07-03T23:44:47.391Z
 tags: servers
 editor: markdown
 ---
@@ -29,7 +29,7 @@ Revisamos las configuraciones del nginx
 ls -l /etc/nginx/conf.d/
 ```
 
-Hasta este punto ya conocemos los contenedores que estan corriendo.
+Hasta este punto ya conocemos los contenedores que estan corriendo y las configuraciones del nginx.
 
 1. Ingresando por primera vez al vps nuevo
 
@@ -81,7 +81,7 @@ systemctl start docker
 ![metalslug-1.png](/memes/metalslug-1.png)
 
 
-# Ahora el turno de **nginx**
+## Ahora el turno de **nginx**
 
 > ¿Podemos usar nginx desde docker ? 
 > Si
@@ -140,7 +140,7 @@ server {
 }
 ```
 
-Ahora agregamos los certificados https
+Agregamos las configuraciones para letsencrypt
 ```
 mkdir -p /etc/letsencrypt/
 vi /etc/letsencrypt/options-ssl-nginx.conf
@@ -171,7 +171,9 @@ Para el ejemplo usare Cloudflare
 
 
 
-# Letsencrypt
+## Letsencrypt con docker
+Creamos una directorio secrets donde estara el token para ingresar a cloudflare.
+
 ```
 mkdir -p /root/secrets/
 ```
