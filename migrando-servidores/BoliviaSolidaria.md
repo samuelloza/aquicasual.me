@@ -1,8 +1,8 @@
 ---
-title: Migrando el server
+title: Migrando contenedores
 description: 
 published: true
-date: 2020-07-03T23:39:43.337Z
+date: 2020-07-03T23:40:38.335Z
 tags: servers
 editor: markdown
 ---
