@@ -2,7 +2,7 @@
 title: Migrando contenedores
 description: 
 published: true
-date: 2020-07-03T23:40:38.335Z
+date: 2020-07-03T23:41:34.471Z
 tags: servers
 editor: markdown
 ---
@@ -25,9 +25,9 @@ CONTAINER ID        IMAGE                                                       
 ...
 ```
 Revisamos las configuraciones del nginx
-
+```
 ls -l /etc/nginx/conf.d/
-
+```
 
 Hasta este punto ya conocemos los contenedores que estan corriendo.
 
