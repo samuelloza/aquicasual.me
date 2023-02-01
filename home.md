@@ -2,8 +2,10 @@
 title: Index
 description: Main
 published: true
-date: 2020-05-22T17:00:21.330Z
+date: 2023-02-01T08:37:41.821Z
 tags: 
+editor: markdown
+dateCreated: 2023-02-01T08:20:16.066Z
 ---
 
 # Main
