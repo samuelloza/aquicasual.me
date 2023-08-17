@@ -1,8 +1,8 @@
 ---
-title: inf317
+title: home
 description: 
 published: true
-date: 2023-08-17T17:56:26.193Z
+date: 2023-08-17T17:57:20.064Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T17:53:07.750Z
