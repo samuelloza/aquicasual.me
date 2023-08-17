@@ -2,9 +2,10 @@
 title: Empaquetando archivos estaticos
 description: Empaquetando archivos estaticos
 published: true
-date: 2020-07-01T20:22:36.399Z
+date: 2023-08-17T17:44:05.690Z
 tags: golang
 editor: markdown
+dateCreated: 2023-08-17T17:44:02.981Z
 ---
 
 # Empaquetando archivos estáticos

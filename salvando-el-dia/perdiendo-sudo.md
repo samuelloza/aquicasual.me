@@ -2,9 +2,10 @@
 title: perdiendo el sudo
 description: 
 published: true
-date: 2020-07-02T00:14:07.150Z
+date: 2023-08-17T17:44:17.021Z
 tags: 
 editor: markdown
+dateCreated: 2023-08-17T17:44:14.797Z
 ---
 
 # Perdiendo acceso a sudo

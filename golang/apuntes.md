@@ -2,8 +2,10 @@
 title: Apuntes Golang
 description: 
 published: true
-date: 2020-05-23T17:10:59.492Z
+date: 2023-08-17T17:44:01.714Z
 tags: golang
+editor: markdown
+dateCreated: 2023-08-17T17:43:59.211Z
 ---
 
 # Apuntes Golang

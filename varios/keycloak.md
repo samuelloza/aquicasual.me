@@ -2,9 +2,10 @@
 title: Jugando con Keycloack
 description: Recientemente conoci a Keycloack es un gestor de usuarios por asi llamarlo
 published: true
-date: 2020-07-02T00:39:54.927Z
+date: 2023-08-17T17:44:20.351Z
 tags: keycloack
 editor: markdown
+dateCreated: 2023-08-17T17:44:18.122Z
 ---
 
 # Jugando con Keycloack

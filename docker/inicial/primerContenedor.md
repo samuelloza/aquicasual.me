@@ -2,8 +2,10 @@
 title: 3. Primer Contenedor
 description: 
 published: true
-date: 2020-05-23T15:53:42.126Z
+date: 2023-08-17T17:44:30.796Z
 tags: docker
+editor: markdown
+dateCreated: 2023-08-17T17:44:28.446Z
 ---
 
 # Levantando nuestro primer contenedor

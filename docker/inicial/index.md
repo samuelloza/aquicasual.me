@@ -2,9 +2,10 @@
 title: 1. Index
 description: 
 published: true
-date: 2020-07-02T00:18:53.408Z
+date: 2023-08-17T17:44:31.830Z
 tags: 
 editor: markdown
+dateCreated: 2023-08-17T17:44:21.426Z
 ---
 
 # Indice

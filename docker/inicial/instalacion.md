@@ -2,8 +2,10 @@
 title: 2. Instalacion
 description: Instalacion
 published: true
-date: 2020-05-23T16:04:55.132Z
+date: 2023-08-17T17:44:27.342Z
 tags: docker
+editor: markdown
+dateCreated: 2023-08-17T17:44:25.012Z
 ---
 
 # 2. Instalación
