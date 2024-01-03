@@ -2,7 +2,7 @@
 title: JV UMSA BO - Un Viaje en el Tiempo
 description: 
 published: true
-date: 2024-01-03T01:04:58.069Z
+date: 2024-01-03T01:05:27.174Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-03T00:48:17.305Z
