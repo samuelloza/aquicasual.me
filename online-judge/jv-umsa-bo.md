@@ -2,13 +2,13 @@
 title: JV UMSA BO - Un Viaje en el Tiempo
 description: 
 published: true
-date: 2024-01-03T01:03:08.063Z
+date: 2024-01-03T01:04:58.069Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-03T00:48:17.305Z
 ---
 
-# Juez Virtual Un Viaje en el Tiempo
+# jv.umsa.bo un viaje en el tiempo
 
 El Juez Virtual inició en 2014. A continuación, compartiré algunos datos interesantes.
 
