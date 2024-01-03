@@ -2,7 +2,7 @@
 title: Juez Virtual Patito: Un Viaje en el Tiempo
 description: 
 published: true
-date: 2024-01-03T00:41:45.144Z
+date: 2024-01-03T00:50:27.943Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-03T00:41:45.144Z
