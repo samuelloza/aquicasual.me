@@ -2,7 +2,7 @@
 title: Guía de inicio 
 description: 
 published: true
-date: 2024-02-14T19:32:52.354Z
+date: 2024-04-08T13:37:25.365Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-14T19:32:52.353Z
@@ -72,4 +72,4 @@ Las respuestas del juez pueden incluir:
 - **Output Limit Exceeded**: Cuando el archivo de salida es mayor que el permitido.
 - **Compile Error**: Significa error de compilación.
 
-Para más información, puede revisar [FAQs del juez virtual](https://jv.umsa.bo/faqs.php).
+Para más información, puede revisar [FAQs del juez virtual](https://jv.umsa.bo/oj/faqs.php).
